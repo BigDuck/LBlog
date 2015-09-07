@@ -16,4 +16,8 @@ ok now we can see some UI .Don't mind the java 's code
 ![image](https://github.com/BigDuck/LBlog/blob/master/Screenshot/6.png)
 ![image](https://github.com/BigDuck/LBlog/blob/master/Screenshot/8.png)
 ![image](https://github.com/BigDuck/LBlog/blob/master/Screenshot/9.png)
+#finally
+if you want to see more you can download and make it work
+
+##use Chinese English 2015/9//17:50
 

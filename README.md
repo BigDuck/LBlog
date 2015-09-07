@@ -1,5 +1,5 @@
 # saying 
-the homework to a girl ,*However,it has no any fuckly usefull.*
+the homework to a girl ,*but these haven`t had any effect*
 #code
 it is very simple to you can see.because it is only a homework.
 it only use *Servlet* and java 's JDBC so if are master you need not see it.
